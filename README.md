@@ -19,7 +19,7 @@
 
 ## `01 // About`
 
-I am an **AI enthusiast and developer** who enjoys turning complex ideas into practical systems. My work sits at the intersection of **generative AI, machine learning, data and automation**—from designing LLM-powered workflows and API integrations to analysing data and deploying useful applications.
+I am an **AI enthusiast and developer** who enjoys turning complex ideas into practical systems. My work sits at the intersection of **generative AI, machine learning, data and automation**, from designing LLM-powered workflows and API integrations to analysing data and deploying useful applications.
 
 I have supported AI and data learners at **2U and edX**, evaluated model outputs as an **AI Trainer**, and built projects with Python, n8n, UiPath, Supabase, Streamlit and cloud tools. I care about systems that do more than produce a clever demo: they should solve a real problem, handle imperfect inputs and create a clear outcome for the user.
 
