@@ -48,7 +48,7 @@ A UiPath-based workflow for validating billing records and producing exception r
 
 <code>UiPath</code> <code>Python</code> <code>Pandas</code> <code>OpenPyXL</code> <code>Excel</code>
 
-<p><em>Case study coming soon.</em></p>
+<p><a href="https://github.com/philiase/Billing-Validation-Automation"><strong>View repository →</strong></a></p
 
 </td>
 </tr>
