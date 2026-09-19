@@ -13,9 +13,13 @@
 
 `Based in South Africa` · `Open to AI, automation, data and developer opportunities`
 
+[About](#about) · [Selected builds](#selected-builds) · [Technical toolkit](#technical-toolkit) · [Experience](#experience) · [How I work](#how-i-work)
+
 </div>
 
 ---
+
+<a name="about"></a>
 
 ## `01 // About`
 
@@ -27,17 +31,28 @@ I have supported AI and data learners at **2U and edX**, evaluated model outputs
 human problem  →  structured data  →  intelligent decision  →  automated action
 ```
 
+<a name="selected-builds"></a>
+
 ## `02 // Selected builds`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>☀️ AI Lead Qualification &amp; Booking <sup>IN PROGRESS</sup></h3>
+<h3>☀️ <a href="https://github.com/philiase/solarflow-lead-conversion-mvp">AI Lead Qualification &amp; Booking</a></h3>
+
+<p><img src="https://img.shields.io/badge/status-in_progress-334155?style=flat-square" alt="Status: in progress"> <a href="https://github.com/philiase/solarflow-lead-conversion-mvp/blob/main/workflows/solar-lead-conversion-mvp.cleaned.json"><img src="https://img.shields.io/badge/n8n-view_workflow-EA4B71?style=flat-square&amp;logo=n8n&amp;logoColor=white" alt="View n8n workflow"></a></p>
 
 An end-to-end workflow for residential solar installers in South Africa. It receives enquiries through webhooks, uses an LLM to extract structured lead data, applies qualification and scoring logic, stores records in Supabase, routes edge cases for human review and prepares qualified leads for booking.
 
 <code>n8n</code> <code>LLM APIs</code> <code>Supabase</code> <code>Webhooks</code> <code>JSON</code>
+
+<p><a href="https://github.com/philiase/solarflow-lead-conversion-mvp"><strong>View repository →</strong></a> · <a href="https://github.com/philiase/solarflow-lead-conversion-mvp/blob/main/workflows/solar-lead-conversion-mvp.cleaned.json"><strong>View n8n workflow →</strong></a></p>
+
+<details>
+<summary>Workflow at a glance</summary>
+<p>Webhook enquiry → LLM extraction → validation &amp; scoring → Supabase lead record → booking preparation or human review.</p>
+</details>
 
 </td>
 <td width="50%" valign="top">
@@ -48,7 +63,7 @@ A UiPath-based workflow for validating billing records and producing exception r
 
 <code>UiPath</code> <code>Python</code> <code>Pandas</code> <code>OpenPyXL</code> <code>Excel</code>
 
-<p><a href="https://github.com/philiase/Billing-Validation-Automation"><strong>View repository →</strong></a></p
+<p><a href="https://github.com/philiase/Billing-Validation-Automation"><strong>View repository →</strong></a></p>
 
 </td>
 </tr>
@@ -83,6 +98,8 @@ Built an unsupervised recommendation engine and delivered it through a Streamlit
 - [Probability Distribution Visualizer](https://github.com/philiase/Probability-Distribution-Visualizer) — interactive statistical distributions with Python, SciPy, Matplotlib and Streamlit.
 - [Climate Change Sentiment Classification](https://github.com/philiase/EDSA-2201-2207-classification-hackathon) — NLP classification of public sentiment using machine-learning models.
 - [Freelance Code Review Project](https://github.com/philiase/HyperionDev) — practical code assessment, debugging and technical communication.
+
+<a name="technical-toolkit"></a>
 
 ## `03 // Technical toolkit`
 
@@ -125,6 +142,8 @@ Built an unsupervised recommendation engine and delivered it through a Streamlit
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 
+<a name="experience"></a>
+
 ## `04 // Experience snapshot`
 
 | Role | Focus |
@@ -133,6 +152,8 @@ Built an unsupervised recommendation engine and delivered it through a Streamlit
 | **AI Learning Specialist · 2U** | Supporting ML workflows, model evaluation, debugging, deployment, AI agents, RAG and pipelines |
 | **Data Analysis Learning Specialist · edX** | Technical mentoring, live coding, troubleshooting and project delivery |
 | **Data Science Intern · ExploreAI** | Power BI, SQL, data modelling, regression and classification |
+
+<a name="how-i-work"></a>
 
 ## `05 // How I work`
 
@@ -157,3 +178,5 @@ I am open to roles and collaborations across **AI development, intelligent autom
 <sub>Build thoughtfully · Learn continuously · Ship useful work</sub>
 
 </div>
+
+
