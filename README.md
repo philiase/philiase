@@ -158,12 +158,12 @@ Built an unsupervised recommendation engine and delivered it through a Streamlit
 ## `05 // How I work`
 
 ```python
-builder = {
-    "curious_about": ["AI systems", "automation", "useful data products"],
-    "strongest_with": ["Python", "LLMs", "APIs", "workflow design"],
-    "optimising_for": ["clarity", "reliability", "real-world value"],
-    "currently_building": "production-ready AI automation"
-}
+const builder = {
+  curiousAbout: ["AI systems", "automation", "useful data products"],
+  strongestWith: ["Python", "LLMs", "APIs", "workflow design"],
+  optimisingFor: ["clarity", "reliability", "real-world value"],
+  currentlyBuilding: "production-ready AI automation",
+};
 ```
 
 <div align="center">
